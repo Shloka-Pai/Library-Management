@@ -27,6 +27,39 @@ A Java-based Library Management System developed using **Eclipse IDE**. This pro
 - Eclipse IDE
 - Git (optional)
 
+- Object-Oriented Programming (OOP)
+- Classes and Objects
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Exception Handling
+- Collections Framework
+- JDBC Connectivity
+- File and Database Operations
+- Modular Code Design
+
+The system allows users to perform essential library management tasks such as adding, updating, deleting, searching, issuing, and returning books through a simple console-based interface.
+
+## Tech Stack
+
+- Java
+- JDBC
+- MySQL
+- Eclipse IDE
+- Git & GitHub
+
+## Key Features
+
+- Add new books
+- View all books
+- Search books
+- Update book details
+- Delete book records
+- Issue books
+- Return books
+- Database integration using JDBC
+- Exception handling and input validation
+
 ### Clone Repository
 
 ```bash
